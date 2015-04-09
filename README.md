@@ -1,2 +1,2 @@
-# iiiphp
-iiiphp PHP简易框架
+# iiiPHP
+iiiPHP PHP简易框架
